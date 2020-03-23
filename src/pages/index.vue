@@ -1,5 +1,6 @@
 <template>
     <div>
+    index
     </div>
 </template>
     <nav-header></nav-header>
@@ -7,6 +8,6 @@
     <nav-footer></nav-footer>
 <script>
     export default{
-        name:'nav-header'
+        name:'index'
     }
 </script>
